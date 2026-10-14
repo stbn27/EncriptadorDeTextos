@@ -6,12 +6,14 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-[![Netlify](https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](iniciar-sesion-tban.netlify.app)
+[![Netlify](https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://encriptadordetextos.netlify.app)
 
 
 **Desafio 1:**
 
 Este es el primer desafio del curso de desarrollo web de Alura Latam, en el cual se nos pide crear una aplicación que encripte y desencripte mensajes de texto.
+
+**Link de la aplicación**: [Encriptador de textos](https://encriptadordetextos.netlify.app)
 
 ---
 
